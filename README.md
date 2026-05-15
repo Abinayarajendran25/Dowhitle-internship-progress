@@ -22,3 +22,13 @@ Gained foundational knowledge of Generative AI models, text generation, code gen
 - Using tools
 # Learning Outcome
 Learned to work with audio processing, structured outputs, function calling, APIs, and tool integration in GenAI applications.
+# Day3 - 15 May 2026
+# Learned Today
+- Overview
+- Quickstart
+- Agent definitions
+- Models and providers
+- Running agents
+- Sandbox agents
+# Learning Outcome
+Learned to work with AI agents, agent execution, model integration, tool calling, and safe testing using the OpenAI Agents SDK.
