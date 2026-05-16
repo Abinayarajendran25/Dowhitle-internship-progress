@@ -32,3 +32,16 @@ Learned to work with audio processing, structured outputs, function calling, API
 - Sandbox agents
 # Learning Outcome
 Learned to work with AI agents, agent execution, model integration, tool calling, and safe testing using the OpenAI Agents SDK.
+# Day4 - 16 May 2026
+# Learned Today
+- Deep Agents
+- LangChain
+- Semantic search
+- RAG agent
+- SQL agent
+- Voice agent
+- Multi-agent
+- Subagents: Personal assistant
+- Handoffs: Customer support
+# Learning Outcome
+Learned to build and orchestrate AI systems using Deep Agents, LangChain, semantic search, RAG, SQL and voice agents, multi-agent workflows, subagents, and handoff-based customer support architectures.
