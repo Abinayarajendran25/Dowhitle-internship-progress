@@ -45,3 +45,13 @@ Learned to work with AI agents, agent execution, model integration, tool calling
 - Handoffs: Customer support
 # Learning Outcome
 Learned to build and orchestrate AI systems using Deep Agents, LangChain, semantic search, RAG, SQL and voice agents, multi-agent workflows, subagents, and handoff-based customer support architectures.
+# Day5 - 17 May 2026
+# Learned Today
+- Today I read the LangChain documentation and also watched the tutorial videos shared by you.
+- LangGraph
+- Graph API
+- Functional API
+- LangChain vs. LangGraph vs. Deep Agents
+- Prompt engineering videos
+# Learning Outcome
+- Today I completed a focused study session on the LangChain ecosystem and related AI engineering concepts.
