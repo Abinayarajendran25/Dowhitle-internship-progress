@@ -55,3 +55,12 @@ Learned to build and orchestrate AI systems using Deep Agents, LangChain, semant
 - Prompt engineering videos
 # Learning Outcome
 - Today I completed a focused study session on the LangChain ecosystem and related AI engineering concepts.
+# Day6 - 18 May 2026
+# Learned Today
+# AI Code Explainer Bot
+- An AI-powered web application that explains programming code using Large Language Models (LLMs). Users can paste source code and receive detailed explanations, line-by-line analysis, and improvement suggestions instantly.
+- Installed and configured all required applications and tools for the project setup.
+- Completed Module 1:User Interface Module.
+- Completed Module 2:Code Explanation Module.
+# Learning Outcome
+- Learned to design and develop an interactive Streamlit-based user interface.
