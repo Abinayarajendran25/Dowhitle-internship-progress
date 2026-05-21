@@ -66,4 +66,15 @@ Learned to build and orchestrate AI systems using Deep Agents, LangChain, semant
 # Day7 - 19 May 2026
 # Learned Today
 # AI Code Explainer Bot
-- Completed Module 2:Code Explanation Module.
+- Completed
+-  Module 2:Code Explanation Module.
+# Day8 - 20 May 2026
+# Learned Today
+# AI Code Explainer Bot
+- Completed
+- Module 2 – Code Explanation
+- Module 3 – Debugging
+- # Day9 - 21 May 2026
+# Learned Today
+# AI Code Explainer Bot
+- The AI Code Explainer Bot successfully  Completed
