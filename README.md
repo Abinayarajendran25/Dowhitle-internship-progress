@@ -88,3 +88,7 @@ Learned to build and orchestrate AI systems using Deep Agents, LangChain, semant
 # Learned Today
 - Today, Module 2 – Budget Planning and Spending Analysis was successfully implemented and updated on GitHub. This module helps users set monthly budgets, analyze spending patterns, and monitor financial activities effectively through a simple and user-friendly interface.
 - I also watched the video you shared.
+# Day 13 - 25 May 2026
+# Learned Today
+- Today, Module 3 – AI-Based Financial Suggestions and Smart Insights was successfully implemented and updated on GitHub. This module uses Artificial Intelligence to analyze user financial data and provide smart suggestions for better expense management and savings planning through an interactive and user-friendly interface.
+- I also watched the video you shared.
