@@ -92,3 +92,6 @@ Learned to build and orchestrate AI systems using Deep Agents, LangChain, semant
 # Learned Today
 - Today, Module 3 – AI-Based Financial Suggestions and Smart Insights was successfully implemented and updated on GitHub. This module uses Artificial Intelligence to analyze user financial data and provide smart suggestions for better expense management and savings planning through an interactive and user-friendly interface.
 - I also watched the video you shared.
+# Day 14 - 26 May 2026
+# Learned Today
+- Today, Module 4 – Financial Report Generation and Data Visualization was successfully implemented and updated on GitHub. This module helps users generate financial reports, visualize income and expense data, and analyze financial performance through charts and summaries using an interactive and user-friendly interface.
