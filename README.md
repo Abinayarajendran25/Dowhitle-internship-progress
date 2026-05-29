@@ -102,3 +102,6 @@ Learned to build and orchestrate AI systems using Deep Agents, LangChain, semant
 # Day 16 - 28 May 2026
 # Learned Today
 - Today, the AI Personal Finance Assistant project was successfully completed and updated on GitHub. The project helps users manage personal finances efficiently using Artificial Intelligence by tracking expenses, planning budgets, analyzing spending patterns, generating financial reports, and providing smart financial suggestions through an interactive and user-friendly interface.
+# Day 17 - 29 May 2026
+# Learned Today
+- Today, I watched the video shared by you and learned the concepts explained in it. I also updated the related learning progress and notes in GitHub for future reference and project understanding.
