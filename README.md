@@ -105,3 +105,11 @@ Learned to build and orchestrate AI systems using Deep Agents, LangChain, semant
 # Day 17 - 29 May 2026
 # Learned Today
 - Today, I watched the video shared by you and learned the concepts explained in it. I also updated the related learning progress and notes in GitHub for future reference and project understanding.
+# Day 18 - 30 May 2026
+# Learned Today
+# Topic: Project Manager Agent
+- Today, I learned about the Project Manager Agent and its role in managing project workflows using AI. The Project Manager Agent helps in task planning, progress tracking, resource allocation, deadline monitoring, and team coordination. It acts as a central system for organizing project activities and improving overall project efficiency.
+- # Learning Outcome
+- Understanding Project Manager Agent architecture
+- Task planning and workflow management
+- Project progress tracking techniques
