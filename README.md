@@ -119,3 +119,6 @@ Learned to build and orchestrate AI systems using Deep Agents, LangChain, semant
 # Day 20 - 01 June 2026
 # Learned Today
 - This module focuses on analyzing user requirements, identifying project goals, and creating a structured project plan. It helps the Project Manager Agent understand project needs and prepare tasks for further execution.
+# Day 21 - 02 June 2026
+# Learned Today
+-  Module 3  -  This module focuses on assigning tasks to specialized agents based on project requirements and coordinating their activities to ensure smooth workflow execution. It helps the Project Manager Agent manage responsibilities efficiently across multiple agents.         
