@@ -125,3 +125,6 @@ Learned to build and orchestrate AI systems using Deep Agents, LangChain, semant
 # Day 22 - 03 June 2026
 # Learned Today
 - Module 4 – Developer Agent  , The Developer Agent is responsible for generating, updating, and optimizing the project's source code. It converts project requirements into functional frontend and backend components and ensures smooth integration of all system features.       
+# Day 23 - 04 June 2026
+# Learned Today
+- Module 5  The Testing & Code Review Agent is responsible for ensuring the quality, reliability, and performance of the application. It analyzes the generated code, identifies bugs, performs testing, and provides suggestions for improvement.    
