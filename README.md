@@ -131,3 +131,6 @@ Learned to build and orchestrate AI systems using Deep Agents, LangChain, semant
 # Day 24 - 05 June 2026
 # Learned Today
 - Today, I worked on the Project Manager Agent module of the Multi-Agent AI Development Assistant project. I designed the agent workflow, analyzed project planning and task allocation processes, and studied how the agent coordinates communication between different AI agents. This helped me understand multi-agent orchestration and workflow management using LangGraph, LangChain, and Google ADK.   
+# Day 25 - 06 June 2026
+# Learned Today
+The Project Manager Agent is an AI-powered system that acts as the central controller of a multi-agent environment. It analyzes user requirements, creates project plans, assigns tasks to specialized agents, coordinates workflows, and monitors project progress to ensure successful project completion.                
