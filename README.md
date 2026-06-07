@@ -134,3 +134,9 @@ Learned to build and orchestrate AI systems using Deep Agents, LangChain, semant
 # Day 25 - 06 June 2026
 # Learned Today
 The Project Manager Agent is an AI-powered system that acts as the central controller of a multi-agent environment. It analyzes user requirements, creates project plans, assigns tasks to specialized agents, coordinates workflows, and monitors project progress to ensure successful project completion.                
+# Day 26 - 07 June 2026
+# Learned Today
+- Today watched video  shared by you Deep agents represent the next generation of AI agents capable of solving complex, multi-step tasks by combining planning, memory, modular skills, and sub-agents.
+The four core components (planning, sub-agents, system prompt, file system) enable deep agents to perform organized, collaborative, and context-rich processing.
+Backends provide different storage strategies for data persistence and execution context essential for real applications.
+Context engineering (input context, runtime context, memory) is critical to provide relevant, concise, and format-consistent context for accurate and efficient agent reasoning.                             
