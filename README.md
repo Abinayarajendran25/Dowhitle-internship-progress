@@ -146,3 +146,7 @@ Context engineering (input context, runtime context, memory) is critical to prov
 - Today, Module 1 – User Authentication Module was successfully implemented and updated on GitHub.
 Description:
 This module provides secure user registration and login functionality. It ensures that only authorized users can access the RAG-Based Knowledge Assistant and its features.
+# Day 28 - 09 June 2026
+# Learned Today
+- Today, Module 2 – Document Upload and Processing Module was successfully implemented and updated on GitHub.
+Description: This module allows users to upload documents such as PDF, DOCX, and TXT files. The uploaded documents are processed, cleaned, and prepared for storage in the knowledge base to support accurate information retrieval.
