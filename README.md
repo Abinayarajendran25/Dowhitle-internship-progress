@@ -150,3 +150,7 @@ This module provides secure user registration and login functionality. It ensure
 # Learned Today
 - Today, Module 2 – Document Upload and Processing Module was successfully implemented and updated on GitHub.
 Description: This module allows users to upload documents such as PDF, DOCX, and TXT files. The uploaded documents are processed, cleaned, and prepared for storage in the knowledge base to support accurate information retrieval.
+# Day 29 - 10 June 2026
+# Learned Today
+- Today, Module 3 – Embedding & Vector Storage Module
+-  This module converts processed document text into vector embeddings and stores them in a vector database. These embeddings help the system efficiently retrieve relevant information based on user queries.                                                                                                                                                                                                                                                                                                             
