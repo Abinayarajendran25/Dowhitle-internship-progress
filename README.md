@@ -154,3 +154,7 @@ Description: This module allows users to upload documents such as PDF, DOCX, and
 # Learned Today
 - Today, Module 3 – Embedding & Vector Storage Module
 -  This module converts processed document text into vector embeddings and stores them in a vector database. These embeddings help the system efficiently retrieve relevant information based on user queries.                                                                                                                                                                                                                                                                                                             
+# Day 30 - 11 June 2026
+# Learned Today 
+- Today, the RAG-Based Knowledge Assistant project was successfully completed .
+- The RAG-Based Knowledge Assistant is an AI-powered application that uses Retrieval-Augmented Generation (RAG) and Large Language Models to provide accurate, context-aware responses from uploaded documents. The system processes documents, creates embeddings, stores information in a vector database, and retrieves relevant content to generate intelligent answers.         
